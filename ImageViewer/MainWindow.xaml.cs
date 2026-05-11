@@ -26,7 +26,7 @@ using ImageViewer.Controls;
 using ImageViewer.Views;
 
 namespace ImageViewer;
-
+// Làm thêm OCR và dịch tự động tiếng
 public sealed partial class MainWindow : Window
 {
     private bool SavingProcess = false;
